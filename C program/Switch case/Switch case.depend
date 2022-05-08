@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1566984084 source:e:\pramo_cd\c program\switch case\main.c
+	<stdio.h>
+
+1566979406 source:e:\pramo_cd\c program\switch case\menu.c
+	<stdio.h>
+	<math.h>
+	<math.h>
+
