@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565865554 source:e:\pramo_cd\c program\even_odd\main.c
+	<stdio.h>
+	<stdlib.h>
+
